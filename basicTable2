@@ -1,0 +1,35 @@
+<!DOCTYPEhtml>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport"contnet="width=device-width,inital-scale=1"/>
+<style>table,tr,th,td
+ {
+	border: 1px solid black; border-collapse:collapse;
+  }
+</style>
+<title>HTML5 테이블 스팬 실습</title>
+</head>
+ <table>
+ <caption>표1. 한국대도시 정보현황</caption>
+ <thead>
+  <tr>
+   <th>헤드(1,1)</th><th>헤드(1,2)</th><th>헤드(1,3)</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>데이터(2,1)</td><td>데이터(2,2)</td><td>데이터(2,3)</td>
+  </tr>
+  <tr>
+   <td>데이터(3,1)</td><td>데이터(3,2)</td><td>데이터(3,3)</td>
+  </tr>
+ </tbody>
+ <tfooter>
+  <tr>
+   <td>데이터(4,1)</td><td>데이터(4,2)</td><td>데이터(4,3)</td>
+  </tr>
+ </tfooter>
+</table>
+</body>
+</html>
