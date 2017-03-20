@@ -1,0 +1,63 @@
+<!DOCTYPEhtml>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport"contnet="width=device-width,inital-scale=1"/>
+<style>table,tr,th,td
+ {
+	border: 2px solid black; border-collapse:collapse;
+  }
+</style>
+<title>시간표</title>
+</head>
+ <table>
+ <caption><h2>시간표<h2></caption>
+ <thead>
+  <tr>
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">시간</th> 
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">월</th> 
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">화</th> 
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">수</th> 
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">목</th>
+   <th align="center" width = "16%" height="70" bgcolor ="5F8EBE">금</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="center" height="40"> 9시 </td><td></td><td></td><td align="center" rowspan="2" bgcolor ="64CD3C">자료구조실습</td><td align="center" rowspan="2" bgcolor ="FF1493">컴퓨터게임 디자인</td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 10시</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 11시</td><td></td><td align="center" rowspan="2" bgcolor ="64CD3C">자료구조실습</td><td></td><td align="center" rowspan="2" bgcolor ="FF3232">영어작문</td><td align="center" rowspan="3" bgcolor ="AD192C">오토마타와 응용</td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 12시</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 1시</td><td></td><td align="center" rowspan="2"bgcolor ="FF1493">컴퓨터게임 디자인</td><td></td><td align="center" rowspan="2" bgcolor ="8CBDED">인터넷 프로그래밍</td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 2시</td><td></td><td align="center" rowspan="4" bgcolor ="C2722E">C++프로그래밍</td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 3시</td><td></td><td align="center" rowspan="2" bgcolor ="8CBDED">인터넷 프로그래밍</td><td align="center" rowspan="2" bgcolor ="E0FFFF">캠퍼스 멘토링</td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 4시</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 5시</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 6시</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+   <td align="center" height="40"> 7시</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+ </tbody>
+</table>
+</body>
+</html>
+<html>
